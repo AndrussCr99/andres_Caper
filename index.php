@@ -2,9 +2,19 @@
  <html>
  <head>
  	<title>Andres Capera</title>
+ 	<script type="text/javascript" src="librerias/jquery.js"></script>
+ 	<script type="text/javascript"></script>
  </head>
+
  <body>
  	<h1>Esta es la segunda reunion</h1>
- 
+ 	<div id="contenerdor">
+ 		Click Aqui
+ 	</div>
  </body>
+    <script type="text/javascript">
+    	$("#contenerdor").Click(function() {
+    		console.log("Hizo Click");
+    	});
+    </script>
  </html>
