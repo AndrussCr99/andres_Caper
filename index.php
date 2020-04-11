@@ -3,7 +3,6 @@
  <head>
  	<title>Andres Capera</title>
  	<script type="text/javascript" src="librerias/jquery.js"></script>
- 	<script type="text/javascript"></script>
  </head>
 
  <body>
