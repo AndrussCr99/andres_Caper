@@ -13,7 +13,7 @@
  	</div>
  </body>
     <script type="text/javascript">
-    	$("#contenerdor").Click(function() {
+    	$("#contenerdor").click(function() {
     		console.log("Hizo Click");
     	});
     </script>
